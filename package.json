@@ -1,0 +1,13 @@
+{
+  "name": "medseguro-camada-0",
+  "version": "1.0.0",
+  "description": "Simulacao da Camada 0 - Cliente (MedSeguro)",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
